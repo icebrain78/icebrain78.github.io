@@ -1,0 +1,7 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><title>TikTok 인증 콜백</title></head>
+<body style="font-family:sans-serif;max-width:640px;margin:40px auto;padding:0 16px">
+<h1>TikTok 인증 완료</h1><p>아래 코드를 복사해서 Claude에게 붙여넣으세요:</p>
+<pre id="c" style="background:#eee;padding:16px;word-break:break-all;font-size:14px"></pre>
+<script>document.getElementById('c').textContent =
+  new URLSearchParams(location.search).get('code') || '(코드 없음 — 주소창의 ?code= 값을 복사하세요)';</script>
+</body></html>
