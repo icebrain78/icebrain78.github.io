@@ -6,7 +6,7 @@
     <description>Recent content in Tags on 김쇼츠 생활지식 노트</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sun, 26 Jul 2026 16:30:15 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:30:04 +0900</lastBuildDate>
     <atom:link href="https://icebrain78.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1분트렌드</title>
@@ -16,10 +16,17 @@
       <description></description>
     </item>
     <item>
-      <title>눈건강</title>
-      <link>https://icebrain78.github.io/blog/tags/%EB%88%88%EA%B1%B4%EA%B0%95/</link>
+      <title>거절</title>
+      <link>https://icebrain78.github.io/blog/tags/%EA%B1%B0%EC%A0%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://icebrain78.github.io/blog/tags/%EB%88%88%EA%B1%B4%EA%B0%95/</guid>
+      <guid>https://icebrain78.github.io/blog/tags/%EA%B1%B0%EC%A0%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>부탁</title>
+      <link>https://icebrain78.github.io/blog/tags/%EB%B6%80%ED%83%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EB%B6%80%ED%83%81/</guid>
       <description></description>
     </item>
     <item>
@@ -37,17 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>시력</title>
-      <link>https://icebrain78.github.io/blog/tags/%EC%8B%9C%EB%A0%A5/</link>
+      <title>인간관계</title>
+      <link>https://icebrain78.github.io/blog/tags/%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://icebrain78.github.io/blog/tags/%EC%8B%9C%EB%A0%A5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>어둠속독서</title>
-      <link>https://icebrain78.github.io/blog/tags/%EC%96%B4%EB%91%A0%EC%86%8D%EB%8F%85%EC%84%9C/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://icebrain78.github.io/blog/tags/%EC%96%B4%EB%91%A0%EC%86%8D%EB%8F%85%EC%84%9C/</guid>
+      <guid>https://icebrain78.github.io/blog/tags/%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/</guid>
       <description></description>
     </item>
     <item>
@@ -62,6 +62,27 @@
       <link>https://icebrain78.github.io/blog/tags/%ED%8A%B8%EB%A0%8C%EB%93%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://icebrain78.github.io/blog/tags/%ED%8A%B8%EB%A0%8C%EB%93%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>눈건강</title>
+      <link>https://icebrain78.github.io/blog/tags/%EB%88%88%EA%B1%B4%EA%B0%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EB%88%88%EA%B1%B4%EA%B0%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>시력</title>
+      <link>https://icebrain78.github.io/blog/tags/%EC%8B%9C%EB%A0%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EC%8B%9C%EB%A0%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>어둠속독서</title>
+      <link>https://icebrain78.github.io/blog/tags/%EC%96%B4%EB%91%A0%EC%86%8D%EB%8F%85%EC%84%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EC%96%B4%EB%91%A0%EC%86%8D%EB%8F%85%EC%84%9C/</guid>
       <description></description>
     </item>
     <item>
@@ -132,13 +153,6 @@
       <link>https://icebrain78.github.io/blog/tags/%EC%99%B8%EB%A1%9C%EC%9B%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://icebrain78.github.io/blog/tags/%EC%99%B8%EB%A1%9C%EC%9B%80/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>인간관계</title>
-      <link>https://icebrain78.github.io/blog/tags/%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://icebrain78.github.io/blog/tags/%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/</guid>
       <description></description>
     </item>
     <item>
