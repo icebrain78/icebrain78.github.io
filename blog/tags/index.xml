@@ -6,7 +6,7 @@
     <description>Recent content in Tags on 김쇼츠 생활지식 노트</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:30:16 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:30:14 +0900</lastBuildDate>
     <atom:link href="https://icebrain78.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1분트렌드</title>
@@ -16,10 +16,17 @@
       <description></description>
     </item>
     <item>
-      <title>가족관계</title>
-      <link>https://icebrain78.github.io/blog/tags/%EA%B0%80%EC%A1%B1%EA%B4%80%EA%B3%84/</link>
+      <title>갈등</title>
+      <link>https://icebrain78.github.io/blog/tags/%EA%B0%88%EB%93%B1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://icebrain78.github.io/blog/tags/%EA%B0%80%EC%A1%B1%EA%B4%80%EA%B3%84/</guid>
+      <guid>https://icebrain78.github.io/blog/tags/%EA%B0%88%EB%93%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>부부싸움</title>
+      <link>https://icebrain78.github.io/blog/tags/%EB%B6%80%EB%B6%80%EC%8B%B8%EC%9B%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EB%B6%80%EB%B6%80%EC%8B%B8%EC%9B%80/</guid>
       <description></description>
     </item>
     <item>
@@ -30,17 +37,17 @@
       <description></description>
     </item>
     <item>
+      <title>생활비</title>
+      <link>https://icebrain78.github.io/blog/tags/%EC%83%9D%ED%99%9C%EB%B9%84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EC%83%9D%ED%99%9C%EB%B9%84/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>쇼츠</title>
       <link>https://icebrain78.github.io/blog/tags/%EC%87%BC%EC%B8%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://icebrain78.github.io/blog/tags/%EC%87%BC%EC%B8%A0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>인간관계</title>
-      <link>https://icebrain78.github.io/blog/tags/%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://icebrain78.github.io/blog/tags/%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/</guid>
       <description></description>
     </item>
     <item>
@@ -51,17 +58,52 @@
       <description></description>
     </item>
     <item>
-      <title>조언</title>
-      <link>https://icebrain78.github.io/blog/tags/%EC%A1%B0%EC%96%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://icebrain78.github.io/blog/tags/%EC%A1%B0%EC%96%B8/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>트렌드</title>
       <link>https://icebrain78.github.io/blog/tags/%ED%8A%B8%EB%A0%8C%EB%93%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://icebrain78.github.io/blog/tags/%ED%8A%B8%EB%A0%8C%EB%93%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>결혼</title>
+      <link>https://icebrain78.github.io/blog/tags/%EA%B2%B0%ED%98%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EA%B2%B0%ED%98%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>질투</title>
+      <link>https://icebrain78.github.io/blog/tags/%EC%A7%88%ED%88%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EC%A7%88%ED%88%AC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>친구</title>
+      <link>https://icebrain78.github.io/blog/tags/%EC%B9%9C%EA%B5%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EC%B9%9C%EA%B5%AC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>가족관계</title>
+      <link>https://icebrain78.github.io/blog/tags/%EA%B0%80%EC%A1%B1%EA%B4%80%EA%B3%84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EA%B0%80%EC%A1%B1%EA%B4%80%EA%B3%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>인간관계</title>
+      <link>https://icebrain78.github.io/blog/tags/%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>조언</title>
+      <link>https://icebrain78.github.io/blog/tags/%EC%A1%B0%EC%96%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://icebrain78.github.io/blog/tags/%EC%A1%B0%EC%96%B8/</guid>
       <description></description>
     </item>
     <item>
@@ -181,13 +223,6 @@
       <link>https://icebrain78.github.io/blog/tags/%ED%95%AD%EA%B3%B5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://icebrain78.github.io/blog/tags/%ED%95%AD%EA%B3%B5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>결혼</title>
-      <link>https://icebrain78.github.io/blog/tags/%EA%B2%B0%ED%98%BC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://icebrain78.github.io/blog/tags/%EA%B2%B0%ED%98%BC/</guid>
       <description></description>
     </item>
     <item>
